@@ -1,0 +1,35 @@
+.navbar{
+    box-shadow: 0px 3px 5px #198754;
+    background-color: white;
+ }
+ .navbar-nav .nav-item{
+     margin:10px;
+     color: white;
+ }
+ .nav-link{
+     color:#198754;
+     font-family: 'Josefin Sans', sans-serif;
+     font-size: large;
+     &:hover{
+         color: black
+     }
+ }
+ .dropdown-item{
+     font-family: 'Josefin Sans', sans-serif;
+     font-size: large;
+ }
+ .btn{
+     font-family: 'Josefin Sans', sans-serif;
+     font-size: large;
+ }
+ #nav-log-sign{
+    display: contents;
+    justify-content:end;
+    align-items: end;
+ }
+ #nav-first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 

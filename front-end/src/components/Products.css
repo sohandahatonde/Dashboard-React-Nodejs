@@ -1,0 +1,9 @@
+.table-column{
+    border: 1px solid black;
+}
+#search-bar{
+   width: 400px;
+   height:30px;
+   padding: 20px;
+   border: 1px solid skyblue;
+}
